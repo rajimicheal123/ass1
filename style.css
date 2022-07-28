@@ -1,0 +1,32 @@
+#head1{
+    background-color:#abadce;
+    colour:#abadce
+}
+
+#head2{
+    color: #ffe43f;
+}
+
+#head3{
+    color: rgb(50, 100, 150);
+}
+
+#head4{
+    color: rgb(30, 100, 20);
+}
+
+#head5{
+    color: hsl(210%, 63%, 50% 0.5%);
+}
+
+#head6{
+    color: hsl(210%, 63%, 50% 0.5%);
+}
+
+body{
+    background-image: url("lekki.jpg");
+    background-size: 300px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
